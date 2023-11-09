@@ -27,15 +27,15 @@ Users should be able to:
 
 Desktop version
 
-![desktop version](/ss/desktop.png)
+![desktop version](/screens/desktopdark.png)
 
 Desktop version Active
 
-![desktop version](/ss/desktopActive.png)
+![desktop version](/screens/desktoplight.png)
 
 Mobile version
 
-![mobile version](/ss/mobile.png)
+![mobile version](/screens/darksearch.png)
 
 ### Links
 
