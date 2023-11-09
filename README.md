@@ -1,6 +1,6 @@
-# Frontend Mentor - Fylo dark theme landing page
+# Frontend Mentor - REST Countries API with color theme switcher
 
-This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd/hub/fylo-dark-theme-landing-page-dklRA_XWs0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [REST Countries API with color theme switcher]([https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd/hub/fylo-dark-theme-landing-page-dklRA_XWs0](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca/hub)). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -20,6 +20,8 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+- Filter countries based on region
+- Search for any country
 
 ### Screenshot
 
@@ -44,8 +46,8 @@ Mobile version
 
 ### Built with
 
+- React
 - Semantic HTML5 markup
-- Sass
 - CSS custom properties
 - CSS Flexbox
 - CSS Grid
